@@ -1,0 +1,162 @@
+  html {
+    background-color: rgb(211,221,220);
+
+  }
+  header h1, h2 {
+     font-family: Verdana, Sans-serif;
+     color: rgba(202, 202, 11, 0.79);
+
+    }
+  header h1 {
+     font-size: 46px;
+   }
+
+    header h2 {
+       font-size: 30px;
+      }
+
+body {
+
+      background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url("../images/books pic.jpg"); no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+      background-size: cover;
+
+}
+
+  h1 {font-family: Verdana, Sans-serif;
+  font-size: 22px;
+   color: white;
+  }
+  h2 {font-family: Verdana, Sans-serif;
+  font-size: 18px;
+  color: white;
+  font-weight: normal;
+
+  }
+
+  h3 {font-family: Verdana, Sans-serif;
+  font-size: 16px;
+  color: white;
+  font-weight: normal;
+
+  }
+
+  p {font-family: Verdana, Sans-serif;
+    font-size: 16px;
+    line-height: 1.25;
+    color: white;
+    padding-left: 100px;
+    font-weight: normal;
+  }
+
+.date {
+  padding-left: 50px;
+}
+
+  a:link {
+          color: rgb(202, 202, 11);
+        }
+  a:visited {
+    color: rgb(148, 148, 65);
+  }
+
+    a:hover {
+    color: rgb(42, 42, 18);
+
+}
+
+
+
+  section,
+  footer {
+    padding: 20px 50px;
+  }
+  header {
+    padding: 100px;
+    text-align: center;
+  }
+  body {
+    padding:50px;
+    margin: 0 auto;
+  }
+
+  .content-wrap {
+    max-width: 100%;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 10px;
+  }
+
+
+  .columns
+    {font-family: Verdana, Sans-serif;
+      color: rgba(202, 202, 11, 0.59);
+      font-size: 16px;
+      padding-left: 20px;
+      line-height: 1.6;
+
+}
+  .description p
+    {font-family: Verdana, Sans-serif;
+     color: rgba(202, 202, 11, 0.79);
+  }
+
+    .profile img {
+      float: left;
+      margin-right: 30px;
+      border-radius: 20%;
+    }
+    .profile {
+  overflow: hidden;
+  line-height: 1.50;
+  }
+
+.profile h1 {
+  font-weight: normal;
+}
+
+  .work p {
+    padding-left: 50px;
+    padding-top: 500px:
+    color: rgba(202, 202, 11, 0.59);
+  }
+
+  .projectsawards .columns {
+    line-height: 2.25;
+  }
+
+.education {
+  line-height: 1.50;
+}
+
+.education  h3 {
+  padding-left: 25px;
+
+}
+
+.education p {
+color: rgba(202, 202, 11, 0.59);
+padding-left: 50px;
+}
+
+  .skills h1 {
+    color: white
+  }
+
+.contact {
+  text-align: center;
+
+}
+
+.contact a {
+  font-family: Verdana, Sans-serif;
+}
+
+ p {
+   padding: 0;
+ }
+.social{
+  line-height: 1.50;
+
+}

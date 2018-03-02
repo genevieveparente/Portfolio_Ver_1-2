@@ -1,0 +1,152 @@
+html {
+  background-color: rgb(211,221,220)
+}
+header h1, h2 {
+   font-family: 'IM Fell Double Pica SC', serif;
+   color: rgb(95,86,71):
+
+  }
+header h1 {
+   font-size: 45px;
+   font-weight: bold;
+   text-transform: uppercase;
+ }
+header h2 {
+     font-size: 36px;
+    }
+body {
+
+background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.8)), url("../images/washington-dc.jpg"); no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+}
+
+h1 {font-family: 'IM Fell Double Pica', serif;
+font-weight: bold;
+font-size: 26px;
+}
+h2 {
+font-family: 'IM Fell Double Pica', serif;
+font-weight: bold;
+font-size: 24px;
+}
+
+h3 {font-family: 'IM Fell Double Pica', serif;
+font-weight: bold;
+font-size: 20px;
+
+}
+
+section,
+footer {
+  padding: 20px 50px;
+}
+header {
+  padding: 100px 0;
+  text-align: center;
+}
+
+body {
+  padding:10px;
+  margin: 0 auto;
+}
+.content-wrap {
+  max-width: 100%;
+  width: 1000px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+
+.columns
+  {font-family: 'IM Fell Double Pica', serif;
+}
+
+.description
+  {font-family: 'IM Fell Double Pica', serif;
+
+}
+
+.profile {
+  background: rgba(0, 0, 0, 0.5);
+  color: #fefefe;
+  overflow: hidden;
+}
+
+.summary p {
+ color: white;
+}
+
+.profile img {
+    border-radius: 50%;
+  }
+.profile img {
+  float: right;
+  margin-left: 30px;
+}
+
+.work {
+  background: rgba(205,192,140, 0.8);
+}
+
+.work  p {font-family: 'IM Fell Double Pica', serif;
+    font-size: 16px;
+    line-height: 1.25;
+    padding-left: 25px;
+    color: black;
+}
+
+.projectsawards {
+  background: rgba(213,213,211,0.7);
+  line-height: 2.00;
+}
+p {font-family: 'IM Fell Double Pica', serif;
+    font-size: 16px;
+    line-height: 1.25;
+    padding-left: 25px;
+    color: black;
+}
+
+
+.skills {
+background: rgba(156,150,74,0.7);
+}
+.skills h1 {
+  color: black
+}
+
+.education {
+  background: rgba(250,239,209,0.8);
+ }
+
+.download {
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: rgb(180,15,32);
+  color: black;
+  padding: 20px;
+  font-family: 'IM Fell Double Pica', serif;
+}
+
+.contact {
+background: rgba (225,175,0,0.7);
+text-align: center;
+color: white;
+}
+
+
+.copyright {
+  color: white;
+}
+
+a:link {
+  color:rgb(213,213,211);
+      }
+a:visited {
+  color: rgb(156,150,74);
+}
+a:hover {
+  color: rgb(216,164,153);
+}
